@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <h1>next for deploy</h1>
+    <h1>next for deploy 1</h1>
   );
 }
